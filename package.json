@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "name": "script-logo-gen",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "Jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
